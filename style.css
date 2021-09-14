@@ -1,4 +1,4 @@
-:root {
+/* :root {
   --primary-text-color: rgba(0, 0, 0, 0.8);
   --title-text-color: #000;
   --accent-color: #18a0fb;
@@ -23,7 +23,7 @@
 /* акцент background: #18A0FB; */
 /* вторичный цвет фона #F5F5F5; */
 
-.container {
+/* .container {
   margin-left: auto;
   margin-right: auto;
   width: 1440px;
@@ -115,4 +115,4 @@
 .button.secondary {
   color: var(--accent-color);
   background-color: var(--primary-white-color);
-}
+} */ */
